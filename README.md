@@ -23,6 +23,10 @@ Download the datasets and extract at the current directory. All the corpus are t
 
 ### Monolingual Data
 
+See the scripts and [notes](./data_procs/notes.md) in [data_procs](./data_procs), which includes the general pipeline of
+- data downloading
+- data processing
+that are consistent with the NAR literature.
 
 
 ## Citing
