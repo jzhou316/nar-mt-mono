@@ -38,7 +38,7 @@ BLEU scores
 | | En -> Ro | Ro -> En | En -> De | De -> En |
 | Our NAR baseline | 31.21 | 32.06 | 23.57 | 29.01 |
 | + monolingual data | 31.96 | 33.57 | 25.73 | 30.18 |
-| + longer training till convergence | | | 26.54 | 30.80 |
+| + longer training till convergence | 32.30 | 33.56 | 26.54 | 30.80 |
 
 
 ## Citing
